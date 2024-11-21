@@ -1,4 +1,5 @@
 x = int(input('enter the X value'))
 y = int(input('enter the Y value'))
-z = x + y
+u=int(input('enter the U value'))
+z = x + y+u
 print('sum:', z)
